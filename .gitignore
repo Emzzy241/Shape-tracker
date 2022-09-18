@@ -1,0 +1,5 @@
+# All files we don't ever want to push to our github repository
+
+node_modules/
+.DS_Store
+dist/
